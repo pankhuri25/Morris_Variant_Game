@@ -1,6 +1,4 @@
 # Morris_Variant_Game
-# CS 6364 - Artificial Intelligence
-# Pankhuri Bhatnagar (PXB220012)
 
 <!-- Instructions -->
 
